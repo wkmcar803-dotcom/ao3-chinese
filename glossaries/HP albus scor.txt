@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.21
 维护者：W. 
 更新时间：2026-10-28
 
@@ -13,7 +13,10 @@ Malfoy = 马尔福
 Draco：德拉科
 Draco Malfoy = 德拉科·马尔福
 Albus：阿不思
-
+Rose Granger Weasley = 萝丝·格兰杰·卫斯莱
+Rose = 萝丝
+Granger = 格兰杰
+“Granger-Weasley, Rose” = 萝丝·格兰杰·卫斯莱
 
 
 
