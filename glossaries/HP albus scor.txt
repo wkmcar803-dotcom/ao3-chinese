@@ -1,4 +1,4 @@
-版本号：1.0.22
+版本号：1.0.23
 维护者：W. 
 更新时间：2026-10-28
 
@@ -7,10 +7,9 @@
 
 词条
 // 此区域区分大小写，用于翻译人名等专有名词
-Scorpius = 天蝎
-Scorpius：天蝎
 Scorpius Malfoy = 天蝎·马尔福
 Scorpius Malfoy：天蝎·马尔福
+Scorpius = 天蝎
 Malfoy = 马尔福
 Draco：德拉科
 Draco Malfoy = 德拉科·马尔福
